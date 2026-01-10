@@ -1,1 +1,1 @@
-# This is sample repo.
+# This is sample dummy repo.
